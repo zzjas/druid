@@ -1,0 +1,14 @@
+2023-09-02T03:14:59,164 WARN [main] org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2023-09-02T03:14:59,705 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - RecordReader initialized will read a total of 100 records.
+2023-09-02T03:14:59,706 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - at row 0. reading next block
+2023-09-02T03:14:59,731 INFO [main] org.apache.hadoop.io.compress.CodecPool - Got brand-new decompressor [.snappy]
+2023-09-02T03:14:59,747 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - block read in memory in 41 ms. row count = 100
+2023-09-02T03:15:00,046 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - RecordReader initialized will read a total of 100 records.
+2023-09-02T03:15:00,046 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - at row 0. reading next block
+2023-09-02T03:15:00,049 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - block read in memory in 3 ms. row count = 100
+2023-09-02T03:15:00,122 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - RecordReader initialized will read a total of 100 records.
+2023-09-02T03:15:00,122 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - at row 0. reading next block
+2023-09-02T03:15:00,124 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - block read in memory in 2 ms. row count = 100
+2023-09-02T03:15:00,183 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - RecordReader initialized will read a total of 100 records.
+2023-09-02T03:15:00,183 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - at row 0. reading next block
+2023-09-02T03:15:00,184 INFO [main] org.apache.parquet.hadoop.InternalParquetRecordReader - block read in memory in 1 ms. row count = 100
