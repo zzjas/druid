@@ -1,0 +1,11 @@
+nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1098954
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/ycp2/druid/extensions-core/parquet-extensions/.nondex
+nondexJarDir=/home/ycp2/druid/extensions-core/parquet-extensions/.nondex
+nondexExecid=c4qyGspTfNoK3rOLpKNS79EtBlkPacTJj07zNRlD3qo=
+nondexLogging=CONFIG
+test=
